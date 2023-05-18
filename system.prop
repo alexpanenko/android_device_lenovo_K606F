@@ -1,0 +1,9 @@
+ro.display.series=lenovo YT-K606F
+ro.product.board=sm8250
+ro.board.platform=sm8250
+ro.adb.secure=0
+vendor.gatekeeper.disable_spu=true
+fbe.metadata.wrappedkey=true
+
+# Timezone
+persist.sys.timezone=Europe/Kyiv
