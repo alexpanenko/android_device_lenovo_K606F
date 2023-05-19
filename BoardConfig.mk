@@ -117,7 +117,7 @@ BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST := \
 
 # Partitions (listed in the file) to be wiped under recovery.
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery.fstab
-TARGET_RECOVERY_WIPE := $(DEVICE_PATH)/recovery.wipe
+#TARGET_RECOVERY_WIPE := $(DEVICE_PATH)/recovery.wipe
 
 # Recovery
 BOARD_HAS_LARGE_FILESYSTEM := true
